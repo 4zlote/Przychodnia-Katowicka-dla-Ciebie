@@ -1,5 +1,7 @@
 ### Przychodnia Katowicka dla Ciebie
 
+![LOGO.png](https://user-images.githubusercontent.com/39926876/40942614-0db561c6-684f-11e8-93e8-f3a718dfdf26.png)
+
 
 # Spis treści
 
