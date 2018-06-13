@@ -26,6 +26,7 @@ Jak to działa
 =========
 Wystarczy posiadać konto Messanger aby móc korzystać z bota Przychodnia Katowicka dla Ciebie. Na starcie bot przywita Cię i pokaże jakie poradnie znajdują się w przychodni. Następnie możesz zobaczyć jaka dana poradnia ma numer kontaktowy oraz jacy specjaliści przyjmują oraz kiedy i w jakich godzinach.
 
+
 Rynek
 =========
 W dzisiejszych czasach informacje o poradniach głównie znajdują się na stronach internetowych. Jednak często są to dane nieaktualne lub częściowe. Strony internetowe często są niedostępne i jedynym rozwiązaniem aby uzyskać informacje jest udanie się do przychodni.
