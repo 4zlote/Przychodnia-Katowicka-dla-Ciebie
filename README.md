@@ -1,6 +1,6 @@
 ### Przychodnia Katowicka dla Ciebie
 
-![LOGO.png]()
+![LOGO.png](https://raw.githubusercontent.com/4zlote/Przychodnia-Katowicka-dla-Ciebie/master/LOGO.png)
 
 # Spis treści
 
